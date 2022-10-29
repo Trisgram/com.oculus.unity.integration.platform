@@ -1,0 +1,14 @@
+{
+  "name": "com.oculus.unity-integration.platform.samples",
+  "displayName": "Oculus Integration Platform Samples",
+  "description": "A Non-Official Mirror of the Oculus Unity-Integration Platform Samples as a package",
+  "keywords": [],
+  "version": "1.0.0",
+  "unity": "2021.2",
+  "license": "MIT",
+  "author": "Facebook Technologies, LLC",
+  "dependencies": {
+    "com.unity.xr.oculus": "3.0.2"
+  },
+  "type": "sample"
+}

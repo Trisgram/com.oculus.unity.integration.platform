@@ -1,0 +1,14 @@
+{
+  "name": "com.oculus.unity.integration.platform",
+  "displayName": "Oculus Integration Platform",
+  "description": "Unofficial mirror of the Oculus Unity-Integration Platform as a package for Unity.",
+  "keywords": [],
+  "version": "1.0.0",
+  "unity": "2021.2",
+  "license": "MIT",
+  "author": "Facebook Technologies, LLC",
+  "dependencies": {
+    "com.unity.xr.oculus": "3.0.2"
+  },
+  "type": "sdk"
+}
