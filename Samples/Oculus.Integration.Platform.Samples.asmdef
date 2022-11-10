@@ -2,7 +2,7 @@
     "name": "Oculus.Integration.Platform.Samples",
     "rootNamespace": "",
     "references": [
-        "GUID:0b0f174cb99aaaa42901572ac50f1c10"
+        "GUID:ea22cb6793c9ed449a2dd48035cef1f5"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
